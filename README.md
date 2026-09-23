@@ -57,3 +57,7 @@ swift run TextForgeCoreSmoke
 DEVELOPER_DIR=/Applications/Xcode.app/Contents/Developer xcodebuild -project TextForge.xcodeproj -scheme TextForge -destination 'platform=iOS Simulator,name=iPhone 17' build
 DEVELOPER_DIR=/Applications/Xcode.app/Contents/Developer xcodebuild -project TextForge.xcodeproj -scheme TextForge -destination 'platform=iOS Simulator,name=iPhone 17' test
 ```
+
+## License
+
+TextForge's original source code and project files are licensed under the MIT License. See [LICENSE](LICENSE). Third-party dependencies, including MarkdownUI, remain subject to their own licenses.
